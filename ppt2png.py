@@ -1,4 +1,9 @@
-#源码来自于公众号：谭某人
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+
+' 一个将PPT转化为图片，长图 '
+__author__ = '源码来自于公众号：谭某人，本项目又 fork 自：https://github.com/tss12/ppt2png，最后编辑人：赵全，微信：quanllee，如有侵权欢迎提 issue 或微信'
 
 import win32com
 import win32com.client
